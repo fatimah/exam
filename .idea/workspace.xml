@@ -35,19 +35,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="question_paper_spec.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="question_paper_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/question_paper_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="21" selection-start="405" selection-end="414" vertical-scroll-proportion="0.0">
+            <state line="39" column="36" selection-start="974" selection-end="974" vertical-scroll-proportion="0.8384201">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="question_paper.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="question_paper.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/question_paper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="43" selection-start="127" selection-end="127" vertical-scroll-proportion="0.18850988">
+            <state line="23" column="20" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -68,8 +68,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/spec/question_paper_spec.rb" />
         <option value="$PROJECT_DIR$/lib/question_paper.rb" />
+        <option value="$PROJECT_DIR$/spec/question_paper_spec.rb" />
       </list>
     </option>
   </component>
@@ -414,16 +414,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/question_paper_spec.rb">
+    <entry file="file://$PROJECT_DIR$/lib/question_paper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="21" selection-start="405" selection-end="414" vertical-scroll-proportion="0.0">
+        <state line="23" column="20" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/question_paper.rb">
+    <entry file="file://$PROJECT_DIR$/spec/question_paper_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="43" selection-start="127" selection-end="127" vertical-scroll-proportion="0.18850988">
+        <state line="39" column="36" selection-start="974" selection-end="974" vertical-scroll-proportion="0.8384201">
           <folding />
         </state>
       </provider>
