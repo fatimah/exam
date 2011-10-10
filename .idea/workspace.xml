@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2df89197-e33a-4ab5-be58-48f97f2309c2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/question_paper.rb" afterPath="$PROJECT_DIR$/lib/question_paper.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/question_paper_spec.rb" afterPath="$PROJECT_DIR$/spec/question_paper_spec.rb" />
     </list>
     <ignored path="exam.iws" />
@@ -38,7 +37,7 @@
       <file leaf-file-name="question_paper_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/question_paper_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="36" selection-start="974" selection-end="974" vertical-scroll-proportion="0.8384201">
+            <state line="39" column="51" selection-start="1014" selection-end="1014" vertical-scroll-proportion="1.0502692">
               <folding />
             </state>
           </provider>
@@ -423,7 +422,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/question_paper_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="36" selection-start="974" selection-end="974" vertical-scroll-proportion="0.8384201">
+        <state line="39" column="51" selection-start="1014" selection-end="1014" vertical-scroll-proportion="1.0502692">
           <folding />
         </state>
       </provider>

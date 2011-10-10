@@ -1,8 +1,8 @@
 require "../lib/question_paper"
 
 describe QuestionPaper do
-  subject {QuestionPaper.new}
-
+  #subject {QuestionPaper.new}
+    let(:question) {mock('Question')}
 
   it "should have an empty array of questions when QuestionPaper is created" do
     puts subject
@@ -11,7 +11,7 @@ describe QuestionPaper do
   end
 
   it "should add the question to the question paper" do
-    question =mock('Question')
+    #question =mock('Question')
     subject=QuestionPaper.new
     subject.add(question)
     subject.questions.should include(question)
@@ -31,7 +31,7 @@ describe QuestionPaper do
   end
 
   it "should call the total marks on the question in the paper" do
-    question=mock('Question')
+   # question=mock('Question')
     question.stub!(:mark).and_return(10)
     subject.add(question)
     subject.total_marks
