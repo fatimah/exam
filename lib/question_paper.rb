@@ -1,7 +1,7 @@
 class QuestionPaper
 
       def questions
-               @question=[]
+              return []
       end
 
 end
