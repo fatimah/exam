@@ -1,7 +1,12 @@
 class QuestionPaper
+     attr_reader :questions
 
-      def questions
-              return []
+      def initialize
+        @questions = []
+      end
+
+      def add question
+        @questions.push question
       end
 
 end
